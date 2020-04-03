@@ -1,4 +1,6 @@
-<?php while (have_posts()): ?>
+<?php get_header();
+
+while (have_posts()): ?>
     <?php the_post(); ?>
     <h2>
         <a href="<?php the_permalink(); ?>">
@@ -7,5 +9,6 @@
     </h2>
     <?php the_content(); ?>
     <hr>
-<?php endwhile; ?>
+<?php endwhile;
+get_footer(); ?>
 
