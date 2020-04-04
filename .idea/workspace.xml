@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f1ca7b-4cc1-4f68-afb6-f9ced149fe43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/single.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-university-theme/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +44,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/fictional-university-theme" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585934803305</updated>
       <workItem from="1585934804522" duration="511000" />
-      <workItem from="1585937374908" duration="4393000" />
+      <workItem from="1585937374908" duration="8380000" />
     </task>
     <servers />
   </component>
