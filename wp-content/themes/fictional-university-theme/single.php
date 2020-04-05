@@ -24,7 +24,7 @@ while (have_posts()) {
                         in <?php echo get_the_category_list(', ') ?></span></p>
         </div>
         <div class="generic-content">
-
+            <?php the_content(); ?>
         </div>
     </div>
 <?php }
