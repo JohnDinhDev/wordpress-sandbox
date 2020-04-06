@@ -1,6 +1,8 @@
 <?php
 function university_post_types() {
     register_post_type('event', array(
+        'supports' => array('title', 'editor', 'excerpt'),
+        'show_in_rest' => true,
         'rewrite' => array(
             'slug' => 'events'
         ),
